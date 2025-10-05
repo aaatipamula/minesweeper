@@ -14,7 +14,7 @@
  *   - Several helpers intentionally mutate the passed-in board (documented per function).
  *
  * External Sources / Attribution:
- *   - None; 
+ *   - None;
 
  *
  * EECS 581 – Project 1 Compliance Notes:
@@ -22,7 +22,7 @@
  *   - First click safety: `placeMines` excludes the initially clicked cell and its neighbors.
  *   - `computeAdjacency` assigns 0–8 counts; `floodFill` expands when count is 0.
  *
- 
+
  * Creation Date: 2025-09-09
  * Course: EECS 581 (Software Engineering II), Prof. Hossein Saiedian – Fall 2025
  */
